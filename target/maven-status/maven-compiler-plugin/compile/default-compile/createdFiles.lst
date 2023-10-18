@@ -1,11 +1,2 @@
-com\tugalsan\blg\gvm\graphicsdevice\TS_FileTxtUtils.class
-com\tugalsan\blg\gvm\graphicsdevice\TGS_Runnable.class
-com\tugalsan\blg\gvm\graphicsdevice\TS_LogUtils.class
-com\tugalsan\blg\gvm\graphicsdevice\Main.class
-com\tugalsan\blg\gvm\graphicsdevice\TGS_UnSafe.class
-com\tugalsan\blg\gvm\graphicsdevice\TS_FileUtils.class
 module-info.class
-com\tugalsan\blg\gvm\graphicsdevice\TS_PathUtils.class
-com\tugalsan\blg\gvm\graphicsdevice\TGS_StreamUtils.class
-com\tugalsan\blg\gvm\graphicsdevice\TGS_CallableType1.class
-com\tugalsan\blg\gvm\graphicsdevice\TGS_UnSafeInterruptedException.class
+com\tugalsan\blg\gvm\graphicsdevice\Main.class

@@ -1,1 +1,1 @@
-java -agentlib:native-image-agent=config-output-dir=config --enable-preview --add-modules jdk.incubator.vector -jar target/com.tugalsan.gvm.vnc.web-1.0-SNAPSHOT-jar-with-dependencies.jar
+java -agentlib:native-image-agent=config-output-dir=config --enable-preview --add-modules jdk.incubator.vector -jar target/com.tugalsan.blg.gvm.graphicsdevice-1.0-SNAPSHOT-jar-with-dependencies.jar
