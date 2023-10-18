@@ -34,6 +34,7 @@ public class Main {
             var localGraphicsEnvironment = GraphicsEnvironment.getLocalGraphicsEnvironment();
             log("main", "#2");
         } catch (Exception e) {
+            e.printStackTrace();
             log("main", e);
         }
     }
