@@ -97,4 +97,4 @@ public class Main {
         }
     }
     final public static Path fileLog = FileSystems.getDefault().getPath(Main.class.getPackageName() + ".log").toAbsolutePath();
-}
+} 
